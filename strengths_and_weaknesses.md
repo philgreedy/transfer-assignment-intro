@@ -4,3 +4,4 @@
 
 # Weaknesses
 - Steep learning curve – Commands and concepts can be confusing at first.
+- Complex merge conflicts – Resolving conflicts can be difficult in large teams.
